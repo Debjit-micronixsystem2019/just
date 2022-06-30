@@ -15,6 +15,12 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("abc")
         print("123456")
+        newABC()
+    }
+    
+    func newABC(){
+        
+        print(123)
     }
 
 
