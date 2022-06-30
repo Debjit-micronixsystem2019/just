@@ -22,7 +22,10 @@ class ViewController: UIViewController {
         
         print(123)
     }
-
+    func pudate(){
+        
+        print("Abc")
+    }
 
 }
 
