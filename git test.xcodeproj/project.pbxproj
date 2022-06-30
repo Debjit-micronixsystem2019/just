@@ -14,6 +14,7 @@
 		8445204C286D744A009680F1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8445204B286D744A009680F1 /* Assets.xcassets */; };
 		8445204F286D744A009680F1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8445204D286D744A009680F1 /* LaunchScreen.storyboard */; };
 		84452057286D77EC009680F1 /* newFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84452056286D77EC009680F1 /* newFile.swift */; };
+		84452059286DA7C5009680F1 /* dev.swift in Sources */ = {isa = PBXBuildFile; fileRef = 84452058286DA7C5009680F1 /* dev.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		8445204E286D744A009680F1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		84452050286D744A009680F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		84452056286D77EC009680F1 /* newFile.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = newFile.swift; sourceTree = "<group>"; };
+		84452058286DA7C5009680F1 /* dev.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = dev.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +64,7 @@
 				84452044286D7443009680F1 /* SceneDelegate.swift */,
 				84452046286D7443009680F1 /* ViewController.swift */,
 				84452056286D77EC009680F1 /* newFile.swift */,
+				84452058286DA7C5009680F1 /* dev.swift */,
 				84452048286D7444009680F1 /* Main.storyboard */,
 				8445204B286D744A009680F1 /* Assets.xcassets */,
 				8445204D286D744A009680F1 /* LaunchScreen.storyboard */,
@@ -142,6 +145,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				84452047286D7443009680F1 /* ViewController.swift in Sources */,
+				84452059286DA7C5009680F1 /* dev.swift in Sources */,
 				84452043286D7443009680F1 /* AppDelegate.swift in Sources */,
 				84452057286D77EC009680F1 /* newFile.swift in Sources */,
 				84452045286D7443009680F1 /* SceneDelegate.swift in Sources */,
